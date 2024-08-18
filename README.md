@@ -8,13 +8,21 @@ The superstore is gearing up for its year-end sale and introducing an enticing n
 
 The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. The data provided is used to identify these factors and then build a prediction model to classify the customers itto two groups, one who are likely to take the up the offer, other who won't.
 
+
+## Tech Stack
+
+- **Programming Language:** Python
+- **Libraries:** pandas, numpy, scikit-learn, matplotlib, Seaborn, datetime, Scipy
+- **Tools:** Google Collab, Excel, Github
+
+  
 ## Project Flow
-├─ 01_EDA<br>
-├─ 02_VDA<br>
-├─ 03_Model Implementation<br>
-├─ 04_Feature Importance<br>
-├─ 05_Recomendations<br>
-├─ 06_Conclusion<br>
+- 01_EDA<br>
+- 02_VDA<br>
+- 03_Model Implementation<br>
+- 04_Feature Importance<br>
+- 05_Recomendations<br>
+- 06_Conclusion<br>
 
 
 ## Exploratory Data Analysis
