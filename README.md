@@ -6,7 +6,16 @@ The superstore is gearing up for its year-end sale and introducing an enticing n
 
 ## Objective
 
-The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. The data provided is used to identify these factors and then build a prediction model to predict the probability of a customer who gives a positive response.
+The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. The data provided is used to identify these factors and then build a prediction model to classify the customers itto two groups, one who are likely to take the up the offer, other who won't.
+
+## Tables of content 
+├─ 01_EDA<br>
+├─ 02_VDA<br>
+├─ 03_Model Implementation<br>
+├─ 04_Feature Importance<br>
+├─ 05_Recomendations<br>
+├─ 06_Conclusion<br>
+
 
 ## Exploratory Data Analysis
 
@@ -43,6 +52,16 @@ KNN: Recognizes similar patterns based on past behavior.<br><br>
 SVC: Defines clear boundaries between responses.<br><br>
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/8c57cca2-68d8-4251-bbd6-8bc319aa91ee">
 
+## Feature Importance
+Feature importance analysis is a critical step in any data science project, extending far beyond model accuracy. It provides crucial insights into the factors driving predictions or decisions, allowing businesses to focus on key areas for improvement and growth. By identifying the most influential features, companies can make data-driven decisions that lead to exponential growth and operational enhancements. In the case of this superstore analysis, the most significant feature is recency—how recently a customer visited the store. This insight can guide targeted marketing strategies, inventory management, and customer retention efforts. Understanding feature importance not only improves model interpretability but also bridges the gap between analytical findings and actionable business strategies.
+
+## Recomendations
+
+- Adjust the gap between recency and overall spending by upselling. <br><br>
+- They need to address the highly important but negatively correlated "teen home" feature. <br><br>
+- They can capitalize on the high importance "web visits per month" feature to drive even greater online traffic. <br><br>
+
+
 ## Conclusion 
 
 - Successfully predicted customer response likelihood and identified influential factors. <br><br>
@@ -52,11 +71,6 @@ SVC: Defines clear boundaries between responses.<br><br>
 - Drives business growth through improved customer targeting and engagement. <br><br>
 
 
-## Recomendations
-
-- Adjust the gap between recency and overall spending by upselling. <br><br>
-- They need to address the highly important but negatively correlated "teen home" feature. <br><br>
-- They can capitalize on the high importance "web visits per month" feature to drive even greater online traffic. <br><br>
 
 
 
