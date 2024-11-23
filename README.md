@@ -6,7 +6,7 @@ The superstore is gearing up for its year-end sale and introducing an enticing n
 
 ## Objective
 
-The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. The data provided is used to identify these factors and then build a prediction model to classify the customers itto two groups, one who are likely to take the up the offer, other who won't.
+The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. The data provided is used to identify these factors and then build a prediction model to classify the customers into two groups, one who are likely to take the up the offer, other who won't.
 
 
 ## Tech Stack
